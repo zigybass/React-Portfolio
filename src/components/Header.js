@@ -4,9 +4,7 @@ function Header () {
 
     return (
         <>
-        <div>
-            <button>Home</button>
-        </div>
+        
         </>
     )
 

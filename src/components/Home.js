@@ -1,13 +1,19 @@
 import React from "react";
+import "../css/style.css";
 
 class Home extends React.Component {
 
     state = {}
 
     render () {
+
         return (
-            <div>
-                <h1>Home</h1>
+            <div className="container">
+                <div className="row">
+                    <div className="col">
+                        <h2 className="home">Chris Zeigler</h2>
+                    </div>
+                </div>
             </div>
         )
     }
