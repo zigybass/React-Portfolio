@@ -10,8 +10,8 @@ class Home extends React.Component {
         <div className="row">
           <div className="col">
             <div className="jumbotron home">
-              <h2>Software Developer</h2>
-              <p>React, Node.js, Express, MySQL/Mongo</p>
+              <h1>Software Developer</h1>
+              <h4>React • Node.js • Express • MySQL/Mongo</h4>
             </div>
           </div>
         </div>

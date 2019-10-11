@@ -5,7 +5,7 @@ function Portfolio () {
         <div>
             <div className="container">
                 <div className="jumbotron home">
-                    <h3>Portfolio</h3>
+                    <h1>Portfolio</h1>
                 </div>
             </div>
         </div>
