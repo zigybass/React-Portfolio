@@ -6,9 +6,11 @@ function Navigation() {
   return (
     <nav id="navigation">
       <div className="container">
+        <span className="navLinks">
         <NavLink to="/">Home</NavLink>
         <NavLink to="/contact">Contact</NavLink>
         <NavLink to="/portfolio">Portfolio</NavLink>
+        </span>
       </div>
     </nav>
   );
