@@ -11,6 +11,7 @@ class Home extends React.Component {
           <div className="col">
             <div className="jumbotron home">
               <h1>Software Developer</h1>
+              <br></br>
               <h4>React • Node.js • Express • MySQL/Mongo</h4>
             </div>
           </div>
