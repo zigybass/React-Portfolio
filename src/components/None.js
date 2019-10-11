@@ -1,15 +1,16 @@
 import React from "react";
+import "../css/style.css";
 
-function Portfolio () {
+function None () {
     return (
         <div>
             <div className="container">
                 <div className="jumbotron home">
-                    <h3>Portfolio</h3>
+                    <h3>Sorry this path doesn't exist.</h3>
                 </div>
             </div>
         </div>
     )
 }
 
-export default Portfolio;
+export default None;
