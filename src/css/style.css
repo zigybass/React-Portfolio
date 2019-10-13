@@ -56,10 +56,22 @@ body {
 }
 
 .pics {
-    width: 82%;
-    height: auto;
-    margin: 10px;
+    width: 90%;
+    /* height: auto; */
+    margin-top: 30px;
+    margin-bottom: 15px;
 }
+
+.pics:hover {
+    cursor: pointer;
+    opacity: .6;
+    transition: .2s;
+
+}
+
+/* .appInfo {
+    display: none;
+} */
 
 
 
