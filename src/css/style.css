@@ -64,7 +64,7 @@ body {
 
 .pics:hover {
     cursor: pointer;
-    opacity: .6;
+    opacity: .7;
     transition: .2s;
 
 }
