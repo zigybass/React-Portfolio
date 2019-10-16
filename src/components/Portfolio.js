@@ -27,12 +27,12 @@ class Portfolio extends React.Component {
                 <div className="portImage">
                   <img className="pics" src={PetLife} alt="petlife" />
                   <div className="overlay">
-                    <div className="text">Full MERN app with user authentication and SASS</div>
+                    <div className="text">Store user's pet info. Add/remove pets or pet sitters</div>
                   </div>
                 </div>
                 </a>
                 <div className="container">
-                  <h4>PetLife</h4>
+                  <h4>PetLife | <a href="https://github.com/zigybass/PetLife" target="blank">GitHub Page</a> </h4>
                   <p className="appInfo">React/Node/MongoDB/Authentication </p>
                 </div>
               </div>
@@ -41,14 +41,14 @@ class Portfolio extends React.Component {
               <div className="container">
               <a href="https://arcane-wildwood-00150.herokuapp.com/" target="blank">
                 <div className="portImage">
-                  <img className="pics" src={FanClub} href="" alt="petlife" />
+                  <img className="pics" src={FanClub} href="" alt="fanClub"/>
                   <div className="overlay">
-                    <div className="text"></div>
+                    <div className="text">App with login to store favorite teams and game results</div>
                   </div>
                 </div>
                 </a>
                 <div className="container">
-                  <h4>Fan Club</h4>
+                  <h4>Fan Club | <a href="https://github.com/zigybass/SuperMega_FanClub" target="blank">GitHub Page</a></h4>
                   <p className="appInfo">Express/MySQL/Sequelize</p>
                 </div>
               </div>
@@ -59,12 +59,12 @@ class Portfolio extends React.Component {
                 <div className="portImage">
                   <img className="pics" src={TravelGuide} alt="travelGuide" />
                   <div className="overlay">
-                    <div className="text"></div>
+                    <div className="text">App that provides various international travel needs</div>
                   </div>
                 </div>
                 </a>
                 <div className="container">
-                  <h4>Travel Guide</h4>
+                  <h4>Travel Guide | <a href="https://github.com/zigybass/Travel-Guide" target="blank">GitHub Page</a></h4>
                   <p className="appInfo">Node/APIs/Bootstrap</p>
                 </div>
               </div>
@@ -77,12 +77,12 @@ class Portfolio extends React.Component {
                 <div className="portImage">
                   <img className="pics" src={FriendFinder} alt="friendFinder" />
                   <div className="overlay">
-                    <div className="text"></div>
+                    <div className="text">Answer 10 questions to find closest celebrity match</div>
                   </div>
                 </div>
                 </a>
                 <div>
-                  <h4>Friend Finder</h4>
+                  <h4>Friend Finder | <a href="https://github.com/zigybass/Friend-Finder" target="blank">GitHub Page</a></h4>
                   <p className="appInfo">Matching algorithm in JS</p>
                 </div>
               </div>
@@ -98,12 +98,12 @@ class Portfolio extends React.Component {
                     alt="shoppingApp"
                   />
                   <div className="overlay">
-                    <div className="text"></div>
+                    <div className="text">Store app with built in inventory management using SQL</div>
                   </div>
                 </div>
                 </a>
                 <div>
-                  <h4>Shopping App</h4>
+                  <h4>Shopping App | <a href="https://github.com/zigybass/Online-Shopping-App" target="blank">GitHub Page</a></h4>
                   <p className="appInfo">Node/Express/MySQL/Sequelize</p>
                 </div>
               </div>

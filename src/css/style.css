@@ -63,12 +63,7 @@ body {
     display: block;
 }
 
-.pics:hover {
-    cursor: pointer;
-    opacity: .7;
-    transition: .2s;
 
-}
 
 .overlay {
     position: absolute;
@@ -79,8 +74,8 @@ body {
     height: 100%;
     width: 90%;
     opacity: 0;
-    transition: .5s ease;
-    background-color: #008CBA;
+    transition: .4s ease;
+    background-color: rgb(33, 77, 92);
   }
 
   .portImage {
@@ -88,7 +83,7 @@ body {
   }
   
   .portImage:hover .overlay {
-    opacity: .88;
+    opacity: .91;
     cursor: pointer;
   }
 
