@@ -3,8 +3,8 @@ body {
     background-image: url("../mountain.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Open Sans Condensed', sans-serif;
-
 }
 
 .home {
