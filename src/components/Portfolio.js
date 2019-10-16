@@ -15,7 +15,12 @@ function Portfolio() {
           <h1>Portfolio</h1>
           <div className="row">
             <div className="col-lg-4">
+              <div className="container portImage">
               <img className="pics" src={PetLife} alt="petlife" />
+              <div className="overlay" >
+                <div className="text"></div>
+              </div>
+              </div>
               <div>
                 <h4>PetLife</h4>
                 <p className="appInfo" >React/Node/MongoDB/Authentication </p>
