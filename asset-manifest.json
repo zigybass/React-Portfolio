@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9a018394.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.73828316.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.73828316.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fa175e6a.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fa175e6a.js.map",
+    "static/js/2.e0dfcfbb.chunk.js": "/React-Portfolio/static/js/2.e0dfcfbb.chunk.js",
+    "static/js/2.e0dfcfbb.chunk.js.map": "/React-Portfolio/static/js/2.e0dfcfbb.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.35f05c826187fa87f132cd066d0d3f96.js": "/React-Portfolio/precache-manifest.35f05c826187fa87f132cd066d0d3f96.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.9a018394.chunk.css.map": "/React-Portfolio/static/css/main.9a018394.chunk.css.map",
+    "static/media/fanclubNEW.png": "/React-Portfolio/static/media/fanclubNEW.b9adae21.png",
+    "static/media/friendfinder.png": "/React-Portfolio/static/media/friendfinder.9b8c1389.png",
+    "static/media/style.css": "/React-Portfolio/static/media/mountain.3ee39a98.jpg",
+    "static/media/petlifeNEW.png": "/React-Portfolio/static/media/petlifeNEW.ac3e8afd.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.ac2ed242.pdf",
+    "static/media/shoppingapp.png": "/React-Portfolio/static/media/shoppingapp.bb9de6d4.png",
+    "static/media/travelguideNEW.png": "/React-Portfolio/static/media/travelguideNEW.a3661f40.png"
+  }
+}
