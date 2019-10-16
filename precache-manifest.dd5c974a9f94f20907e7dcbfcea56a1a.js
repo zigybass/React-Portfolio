@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f863eed1fc7f90364b2fa24fce5de24c",
+    "revision": "e1159b65c1370d971c2aed4362cf911f",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "d3f00a05e1bf52ac0445",
+    "revision": "87932aeae19be9c72f7f",
     "url": "/React-Portfolio/static/css/main.f6130d4e.chunk.css"
   },
   {
-    "revision": "601ee562b58af02d5580",
-    "url": "/React-Portfolio/static/js/2.c4708bac.chunk.js"
+    "revision": "859a51589ae36ca27f89",
+    "url": "/React-Portfolio/static/js/2.bdb33aa1.chunk.js"
   },
   {
-    "revision": "d3f00a05e1bf52ac0445",
-    "url": "/React-Portfolio/static/js/main.12f54c57.chunk.js"
+    "revision": "87932aeae19be9c72f7f",
+    "url": "/React-Portfolio/static/js/main.c789935a.chunk.js"
   },
   {
     "revision": "4e7228d1241dbe46ea7e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b8c138995b605f8fa47f5b22aff781a",
     "url": "/React-Portfolio/static/media/friendfinder.9b8c1389.png"
+  },
+  {
+    "revision": "1cfa30f326b7d7937877daebc62c893a",
+    "url": "/React-Portfolio/static/media/liri.1cfa30f3.png"
   },
   {
     "revision": "3ee39a98391ab0c3829cfe89fb27b4d7",
