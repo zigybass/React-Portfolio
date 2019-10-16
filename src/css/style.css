@@ -88,11 +88,12 @@ body {
   }
   
   .portImage:hover .overlay {
-    opacity: .77;
+    opacity: .88;
+    cursor: pointer;
   }
 
   .text {
-    color: white;
+    color: rgb(241, 241, 241);
     font-size: 20px;
     position: absolute;
     top: 50%;
