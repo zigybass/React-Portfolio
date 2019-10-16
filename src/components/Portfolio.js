@@ -4,6 +4,7 @@ import TravelGuide from "../images/travelguideNEW.png";
 import FanClub from "../images/fanclubNEW.png";
 import FriendFinder from "../images/friendfinder.png";
 import ShoppingApp from "../images/shoppingapp.png";
+import Liri from "../images/liri.png";
 
 
 class Portfolio extends React.Component {
@@ -108,7 +109,27 @@ class Portfolio extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4"></div>
+            <div className="col-lg-4">
+            <div className="container">
+              <a href="https://github.com/zigybass/liri-node-app" target="blank">
+                <div className="portImage">
+                  <img
+                    className="pics"
+                    src={Liri}
+                    href=""
+                    alt="liriApp"
+                  />
+                  <div className="overlay">
+                    <div className="text">CLI App that retrieves data from Spotify/OMDB APIs</div>
+                  </div>
+                </div>
+                </a>
+                <div>
+                  <h4>Liri Node App | <a href="https://github.com/zigybass/liri-node-app" target="blank">GitHub Page</a></h4>
+                  <p className="appInfo">Node/APIs/Axios/File Systems</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
