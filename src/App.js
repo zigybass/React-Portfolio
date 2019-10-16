@@ -23,6 +23,7 @@ class App extends React.Component {
         <Router>
           <Navigation />
           <Switch>
+            <Route path="/React-Portfolio/" component={Home} />
             <Route exact path="/" component={Home} />
             <Route path="/contact" component={Contact} />
             <Route path="/portfolio" component={Portfolio} />
