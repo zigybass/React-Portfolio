@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1159b65c1370d971c2aed4362cf911f",
+    "revision": "daa8dc568a8ecb2711d2ac21c947ec32",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "87932aeae19be9c72f7f",
-    "url": "/React-Portfolio/static/css/main.f6130d4e.chunk.css"
+    "revision": "d2a5f386e7810207d116",
+    "url": "/React-Portfolio/static/css/main.05488e01.chunk.css"
   },
   {
     "revision": "859a51589ae36ca27f89",
     "url": "/React-Portfolio/static/js/2.bdb33aa1.chunk.js"
   },
   {
-    "revision": "87932aeae19be9c72f7f",
+    "revision": "d2a5f386e7810207d116",
     "url": "/React-Portfolio/static/js/main.c789935a.chunk.js"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/liri.1cfa30f3.png"
   },
   {
-    "revision": "3ee39a98391ab0c3829cfe89fb27b4d7",
-    "url": "/React-Portfolio/static/media/mountain.3ee39a98.jpg"
+    "revision": "13552a7cb2ba631d89ba3e96b1dc8b46",
+    "url": "/React-Portfolio/static/media/mountain2.13552a7c.jpg"
   },
   {
     "revision": "ac3e8afda43e94d47ee13ddd5e1df097",
