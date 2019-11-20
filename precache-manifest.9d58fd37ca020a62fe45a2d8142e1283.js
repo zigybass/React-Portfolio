@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daa8dc568a8ecb2711d2ac21c947ec32",
+    "revision": "f00e95d2845d1e4750e5811ca6cef2d0",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "d2a5f386e7810207d116",
+    "revision": "f87e6d4e796c6ad86ac4",
     "url": "/React-Portfolio/static/css/main.05488e01.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.bdb33aa1.chunk.js"
   },
   {
-    "revision": "d2a5f386e7810207d116",
-    "url": "/React-Portfolio/static/js/main.c789935a.chunk.js"
+    "revision": "f87e6d4e796c6ad86ac4",
+    "url": "/React-Portfolio/static/js/main.c844b81d.chunk.js"
   },
   {
     "revision": "4e7228d1241dbe46ea7e",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/petlifeNEW.ac3e8afd.png"
   },
   {
-    "revision": "ac2ed242dc3412ab3703af8f4df62bdc",
-    "url": "/React-Portfolio/static/media/resume.ac2ed242.pdf"
+    "revision": "2a75455b701c757116b38392a5a182e9",
+    "url": "/React-Portfolio/static/media/resume.2a75455b.pdf"
   },
   {
     "revision": "bb9de6d46207fdd8e9d2e25a7fa9d6b7",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.05488e01.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.c789935a.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.c789935a.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.c844b81d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.c844b81d.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fa175e6a.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fa175e6a.js.map",
     "static/js/2.bdb33aa1.chunk.js": "/React-Portfolio/static/js/2.bdb33aa1.chunk.js",
     "static/js/2.bdb33aa1.chunk.js.map": "/React-Portfolio/static/js/2.bdb33aa1.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.ef288f913ee849038960741cf20d5472.js": "/React-Portfolio/precache-manifest.ef288f913ee849038960741cf20d5472.js",
+    "precache-manifest.9d58fd37ca020a62fe45a2d8142e1283.js": "/React-Portfolio/precache-manifest.9d58fd37ca020a62fe45a2d8142e1283.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.05488e01.chunk.css.map": "/React-Portfolio/static/css/main.05488e01.chunk.css.map",
     "static/media/fanclubNEW.png": "/React-Portfolio/static/media/fanclubNEW.b9adae21.png",
@@ -16,7 +16,7 @@
     "static/media/liri.png": "/React-Portfolio/static/media/liri.1cfa30f3.png",
     "static/media/style.css": "/React-Portfolio/static/media/mountain2.13552a7c.jpg",
     "static/media/petlifeNEW.png": "/React-Portfolio/static/media/petlifeNEW.ac3e8afd.png",
-    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.ac2ed242.pdf",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.2a75455b.pdf",
     "static/media/shoppingapp.png": "/React-Portfolio/static/media/shoppingapp.bb9de6d4.png",
     "static/media/travelguideNEW.png": "/React-Portfolio/static/media/travelguideNEW.a3661f40.png"
   }
