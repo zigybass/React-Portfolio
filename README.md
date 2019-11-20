@@ -2,6 +2,6 @@
 
 ## Basic website with portfolio and contact page
 
-* Used React and Express
+* Uses React and Express
 
 View it [Here](https://zigybass.github.io/React-Portfolio/)
