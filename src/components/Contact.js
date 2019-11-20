@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/style.css";
-import Pdf from "../resume.pdf";
+// import Pdf from "../resume.pdf";
 
 function Contact () {
 
@@ -14,7 +14,7 @@ function Contact () {
                             <p>Email: <span>zigybass@gmail.com</span></p>
                             <p>GitHub: <a href="https://github.com/zigybass" target="blank">Here</a></p>
                             <p>LinkedIn: <a href="https://www.linkedin.com/in/christopher-zeigler/" target="blank">Here</a></p>
-                            <p>Resume: <a href={Pdf} target="blank">Here</a> </p>
+                            <p>Resume: <a href="https://docs.google.com/document/d/1-ldSKJHM86tnsuqRcYcVZkZHLaW4hn0Iqzuz6An0KxA/edit?ts=5d8a3022" target="blank">Here</a> </p>
                         </div>
                     </div>
                 </div>
